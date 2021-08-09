@@ -14,8 +14,11 @@ https://codesandbox.io/s/protected-routes-7-lmhm9?file=/src/App.js
 
 REDUX-FORM
 https://codesandbox.io/s/ko6km4134v?file=/src/index.js:524-532
+
 https://redux-form.com/6.0.0-alpha.11/docs/api/field.md/
+
 https://codesandbox.io/s/2on863xwj0?file=/SimpleForm.js
+
 https://github.com/redux-form/redux-form/issues/334
 
 
