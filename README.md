@@ -27,4 +27,5 @@ https://github.com/redux-form/redux-form/issues/334
 
 
 RENDERING
+
 https://www.pluralsight.com/guides/how-to-execute-javascript-after-reactjs-render-method-has-completed      execute js after react.js render method completed - rendering, lifecycle methods etc.
