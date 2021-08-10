@@ -23,6 +23,8 @@ https://codesandbox.io/s/2on863xwj0?file=/SimpleForm.js
 
 https://github.com/redux-form/redux-form/issues/334
 
+https://codesandbox.io/s/7ow3l2yn7j?file=/src/form.js  - dropdown
+
 
 
 
