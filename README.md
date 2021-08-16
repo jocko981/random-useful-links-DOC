@@ -38,8 +38,7 @@ https://react-beautiful-dnd.netlify.app/?path=/story/board--simple
 
 Sticky Footer
 
-https://css-tricks.com/couple-takes-sticky-footer/#top-of-site
-.App {
+https://css-tricks.com/couple-takes-sticky-footer/#top-of-site  -   .App {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
@@ -48,3 +47,11 @@ https://css-tricks.com/couple-takes-sticky-footer/#top-of-site
   flex: 1;
   padding: 1em;
 }
+
+INTERCEPTORS axios
+
+https://thedutchlab.com/blog/using-axios-interceptors-for-refreshing-your-api-token
+
+https://medium.com/@srph/axios-configure-the-base-path-daed6ff79eab
+
+https://github.com/axios/axios#interceptors
