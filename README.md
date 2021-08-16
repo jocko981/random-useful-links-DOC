@@ -55,3 +55,5 @@ https://thedutchlab.com/blog/using-axios-interceptors-for-refreshing-your-api-to
 https://medium.com/@srph/axios-configure-the-base-path-daed6ff79eab
 
 https://github.com/axios/axios#interceptors
+
+https://www.tutorialspoint.com/reactjs-axios-interceptors
