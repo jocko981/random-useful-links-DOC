@@ -35,3 +35,16 @@ https://www.pluralsight.com/guides/how-to-execute-javascript-after-reactjs-rende
 DND
 
 https://react-beautiful-dnd.netlify.app/?path=/story/board--simple
+
+Sticky Footer
+
+https://css-tricks.com/couple-takes-sticky-footer/#top-of-site
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.Sticky_footer_Content_wrapper {
+  flex: 1;
+  padding: 1em;
+}
