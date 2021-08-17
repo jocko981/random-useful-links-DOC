@@ -57,3 +57,6 @@ https://medium.com/@srph/axios-configure-the-base-path-daed6ff79eab
 https://github.com/axios/axios#interceptors
 
 https://www.tutorialspoint.com/reactjs-axios-interceptors
+
+https://github.com/CryceTruly/truly-contacts-youtube/blob/master/src/helpers/axiosInstance.js    - dis good example
+https://www.youtube.com/watch?v=ANvVndhOxIc&ab_channel=CryceTruly
