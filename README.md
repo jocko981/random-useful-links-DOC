@@ -6,6 +6,8 @@ https://lorantfy.com/      good FE tips for rendering components/css etc.
 
 https://danger.systems/    something for code review sheet idk.
 
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia   - React JS Crash Course 2021
+
 
 
 PROTECTED ROUTES
