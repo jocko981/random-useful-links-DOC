@@ -27,6 +27,11 @@ https://codesandbox.io/s/7ow3l2yn7j?file=/src/form.js  - dropdown
 
 
 
+PAGINATION
+
+https://stackblitz.com/edit/react-4ten5s?file=src%2Fexamples%2FApp.js
+
+
 
 RENDERING
 
