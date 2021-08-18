@@ -7,6 +7,7 @@ https://lorantfy.com/      good FE tips for rendering components/css etc.
 https://danger.systems/    something for code review sheet idk.
 
 
+
 PROTECTED ROUTES
 
 https://codesandbox.io/s/protected-routes-7-lmhm9?file=/src/App.js
@@ -31,15 +32,21 @@ PAGINATION
 
 https://stackblitz.com/edit/react-4ten5s?file=src%2Fexamples%2FApp.js
 
+https://react.semantic-ui.com/addons/pagination/#types-compact
+
 
 
 RENDERING
 
 https://www.pluralsight.com/guides/how-to-execute-javascript-after-reactjs-render-method-has-completed      execute js after react.js render method completed - rendering, lifecycle methods etc.
 
+
+
 DND
 
 https://react-beautiful-dnd.netlify.app/?path=/story/board--simple
+
+
 
 Sticky Footer
 
@@ -52,6 +59,8 @@ https://css-tricks.com/couple-takes-sticky-footer/#top-of-site  -   .App {
   flex: 1;
   padding: 1em;
 }
+
+
 
 INTERCEPTORS axios
 
