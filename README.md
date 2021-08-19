@@ -7,6 +7,12 @@ https://www.cluemediator.com/stack  -- advanced (barcode etc..)
 
 
 
+React - LIBRARIES
+
+https://react-select.com/home   - select dropdown menu, searchable, clearable etc.
+
+
+
 
 
 All random useful links
