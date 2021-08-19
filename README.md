@@ -10,6 +10,7 @@ https://www.cluemediator.com/stack  -- advanced (barcode etc..)
 React - LIBRARIES
 
 https://react-select.com/home   - select dropdown menu, searchable, clearable etc.
+https://stackblitz.com/edit/get-selected-by-value-multi-select-react?file=src%2FApp.js
 
 
 
