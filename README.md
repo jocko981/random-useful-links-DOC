@@ -15,7 +15,7 @@ https://react-select.com/home   - select dropdown menu, searchable, clearable et
 
 
 
-All random useful links
+ALL RANDOM USEFUL LINKS
 
 https://lorantfy.com/      good FE tips for rendering components/css etc. 
 
@@ -50,6 +50,8 @@ PAGINATION
 https://stackblitz.com/edit/react-4ten5s?file=src%2Fexamples%2FApp.js
 
 https://react.semantic-ui.com/addons/pagination/#types-compact
+
+https://stackblitz.com/edit/react-ag-grid-server-side-pagination
 
 
 
