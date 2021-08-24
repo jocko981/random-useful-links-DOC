@@ -8,9 +8,13 @@ https://www.cluemediator.com/stack  -- advanced (barcode etc..)
 
 
 React - LIBRARIES
+  - select dropdown menu, searchable, clearable etc.
 
-https://react-select.com/home   - select dropdown menu, searchable, clearable etc.
+https://react-select.com/home 
+
 https://stackblitz.com/edit/get-selected-by-value-multi-select-react?file=src%2FApp.js
+
+https://www.cluemediator.com/how-to-get-selected-by-only-value-for-multi-select-in-react-select
 
 
 
