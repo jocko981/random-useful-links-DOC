@@ -10,6 +10,8 @@ https://www.cluemediator.com/stack  -- advanced (barcode etc..)
 React - LIBRARIES
 - select dropdown menu, searchable, clearable etc.
 
+https://www.freakyjolly.com/react-select-single-or-multiple-select-box-using-react-select-tutorial-with-examples/  - good example
+
 https://react-select.com/home 
 
 https://stackblitz.com/edit/get-selected-by-value-multi-select-react?file=src%2FApp.js
