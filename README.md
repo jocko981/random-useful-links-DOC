@@ -92,6 +92,8 @@ INTERCEPTORS axios
 
 https://medium.com/swlh/handling-access-and-refresh-tokens-using-axios-interceptors-3970b601a5da  -  good example
 
+https://www.tabnine.com/code/javascript/functions/axios
+
 https://thedutchlab.com/blog/using-axios-interceptors-for-refreshing-your-api-token
 
 https://medium.com/@srph/axios-configure-the-base-path-daed6ff79eab
@@ -101,4 +103,5 @@ https://github.com/axios/axios#interceptors
 https://www.tutorialspoint.com/reactjs-axios-interceptors
 
 https://github.com/CryceTruly/truly-contacts-youtube/blob/master/src/helpers/axiosInstance.js    - dis good example
+
 https://www.youtube.com/watch?v=ANvVndhOxIc&ab_channel=CryceTruly
