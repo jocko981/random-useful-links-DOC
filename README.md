@@ -8,7 +8,7 @@ https://www.cluemediator.com/stack  -- advanced (barcode etc..)
 
 
 React - LIBRARIES
-  - select dropdown menu, searchable, clearable etc.
+- select dropdown menu, searchable, clearable etc.
 
 https://react-select.com/home 
 
