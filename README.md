@@ -18,6 +18,9 @@ https://stackblitz.com/edit/get-selected-by-value-multi-select-react?file=src%2F
 
 https://www.cluemediator.com/how-to-get-selected-by-only-value-for-multi-select-in-react-select
 
+- other dropdowns
+
+http://jsfiddle.net/BJyQ7/30/  - semantic ui dropdown
 
 
 
