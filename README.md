@@ -35,6 +35,8 @@ https://danger.systems/    something for code review sheet idk.
 
 https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia   - React JS Crash Course 2021
 
+https://stackoverflow.com/questions/34901593/how-to-filter-an-array-from-all-elements-of-another-array - filter Array of Objects
+
 
 
 PROTECTED ROUTES
