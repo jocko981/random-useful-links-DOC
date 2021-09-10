@@ -8,6 +8,9 @@ https://www.cluemediator.com/stack  -- advanced (barcode etc..)
 
 
 React - LIBRARIES
+
+https://www.npmjs.com/package/froala-editor -- text editor
+
 - select dropdown menu, searchable, clearable etc.
 - 
 https://codesandbox.io/s/fancy-night-05pwq?fontsize=14  - example
