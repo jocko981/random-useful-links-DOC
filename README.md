@@ -5,7 +5,11 @@ REACT
 
 https://www.cluemediator.com/stack  -- advanced (barcode etc..)
 
-React text editor
+React Color
+
+https://casesandberg.github.io/react-color/
+
+React TEXT EDITORS
 
 - froala-editor
 
