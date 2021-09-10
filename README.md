@@ -12,7 +12,7 @@ React - LIBRARIES
 https://www.npmjs.com/package/froala-editor -- text editor
 
 - select dropdown menu, searchable, clearable etc.
-- 
+
 https://codesandbox.io/s/fancy-night-05pwq?fontsize=14  - example
 
 https://www.freakyjolly.com/react-select-single-or-multiple-select-box-using-react-select-tutorial-with-examples/  - good example
