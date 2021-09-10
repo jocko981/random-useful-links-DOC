@@ -5,11 +5,19 @@ REACT
 
 https://www.cluemediator.com/stack  -- advanced (barcode etc..)
 
-React Froala text editor
+React text editor
+
+- froala-editor
 
 https://www.npmjs.com/package/froala-editor -- text editor
 
-https://froala.com/wysiwyg-editor/docs/concepts/save/inside-form/   -- how to save, send to the server then-> process the req and save data in Database
+https://froala.com/wysiwyg-editor/docs/concepts/save/inside-form/   -- how to save, send to the server 
+
+- react-draft-wysiwyg
+
+https://www.npmjs.com/package/react-draft-wysiwyg -- text editor
+
+
 
 React - LIBRARIES
 
