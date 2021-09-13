@@ -96,6 +96,10 @@ DND
 
 https://react-beautiful-dnd.netlify.app/?path=/story/board--simple
 
+SWIPER VERTICAL SCROLL
+
+https://codepen.io/proov/pen/JWqOrr
+
 
 
 Sticky Footer
@@ -109,6 +113,7 @@ https://css-tricks.com/couple-takes-sticky-footer/#top-of-site  -   .App {
   flex: 1;
   padding: 1em;
 }
+
 
 
 
