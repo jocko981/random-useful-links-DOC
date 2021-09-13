@@ -96,9 +96,12 @@ DND
 
 https://react-beautiful-dnd.netlify.app/?path=/story/board--simple
 
+
 SWIPER VERTICAL SCROLL
 
-https://codepen.io/proov/pen/JWqOrr
+https://codepen.io/proov/pen/JWqOrr - vertical slider
+
+https://jsfiddle.net/redcats/84h3nm9w/ - x y slider
 
 
 
