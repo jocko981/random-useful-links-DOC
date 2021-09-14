@@ -21,6 +21,12 @@ https://froala.com/wysiwyg-editor/docs/concepts/save/inside-form/   -- how to sa
 
 https://www.npmjs.com/package/react-draft-wysiwyg -- text editor
 
+https://jpuri.github.io/react-draft-wysiwyg/#/ - how this work well Upload img ???
+
+https://www.youtube.com/watch?v=t12a6z090AU&ab_channel=CodingShiksha - youtube tutorial for it with img upload API
+
+https://stackoverflow.com/questions/44499682/react-draft-wysiwyg-image-upload-when-i-click-the-add-button?rq=1 - img
+
 
 
 React - LIBRARIES
