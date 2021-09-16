@@ -92,6 +92,8 @@ https://react.semantic-ui.com/addons/pagination/#types-compact
 
 https://stackblitz.com/edit/react-ag-grid-server-side-pagination
 
+https://codesandbox.io/s/create-pagination-in-react-js-using-reacthooks-cgq18?from-embed=&file=/src/App.js - npm react-paginate
+
 
 
 RENDERING
