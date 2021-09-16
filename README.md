@@ -3,6 +3,8 @@
 
 REACT
 
+https://stackoverflow.com/questions/53557119/wrap-multiple-react-dom-component-in-reduxs-provider/53557231 - redux Provider wrap multiple dom components
+
 https://www.cluemediator.com/stack  -- advanced (barcode etc..)
 
 React Color
