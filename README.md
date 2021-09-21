@@ -128,6 +128,12 @@ https://css-tricks.com/couple-takes-sticky-footer/#top-of-site  -   .App {
 }
 
 
+INFINITE SCROLL
+
+https://www.youtube.com/watch?v=1EeVzn02grw&ab_channel=SteveGriffith-Prof3ssorSt3v3 - lazy load page javascript
+https://gist.github.com/prof3ssorSt3v3/a21c8b5f6dcf474b373af32b06600116
+
+https://www.youtube.com/watch?v=gk_6BKiy6X4&ab_channel=TraversyMedia -- react inf scroll
 
 
 INTERCEPTORS axios
