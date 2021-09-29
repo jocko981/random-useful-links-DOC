@@ -129,6 +129,9 @@ https://css-tricks.com/couple-takes-sticky-footer/#top-of-site  -   .App {
   padding: 1em;
 }
 
+DETECT SCROLL
+
+https://www.geeksforgeeks.org/how-to-detect-when-user-scrolls-to-the-bottom-of-a-div/   - when you scroll at the end of the specific DOM element
 
 INFINITE SCROLL
 
