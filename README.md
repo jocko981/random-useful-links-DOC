@@ -135,6 +135,8 @@ https://www.geeksforgeeks.org/how-to-detect-when-user-scrolls-to-the-bottom-of-a
 
 INFINITE SCROLL
 
+https://bashooka.com/coding/react-infinite-scroll-components/  - top inff scroll libs
+
 https://kennethscoggins.medium.com/using-the-infinite-scrolling-method-to-fetch-api-data-in-reactjs-c008b2b3a8b9 - the most usefull, at the end of DOM element trigger function
 
 https://www.youtube.com/watch?v=1EeVzn02grw&ab_channel=SteveGriffith-Prof3ssorSt3v3 - lazy load page javascript
