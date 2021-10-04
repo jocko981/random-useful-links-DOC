@@ -13,6 +13,8 @@ React Color
 
 https://casesandberg.github.io/react-color/
 
+
+
 React TEXT EDITORS
 
 - froala-editor
@@ -53,7 +55,6 @@ http://jsfiddle.net/BJyQ7/30/  - semantic ui dropdown
 
 
 
-
 ALL RANDOM USEFUL LINKS
 
 https://lorantfy.com/      good FE tips for rendering components/css etc. 
@@ -70,6 +71,10 @@ PROTECTED ROUTES
 
 https://codesandbox.io/s/protected-routes-7-lmhm9?file=/src/App.js
 
+
+
+ROUTING STUFF
+https://codepen.io/Yuschick/post/react-reset-scroll-position-when-changing-routes  -- scroll to the Top on route change
 
 
 REDUX-FORM
