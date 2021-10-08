@@ -21,6 +21,12 @@ https://www.better.dev/adding-sass-to-create-react-app
 
 
 
+Download file simple html
+
+https://www.rapidtables.com/web/html/link/html-download-link.html
+
+
+
 React TEXT EDITORS
 
 - froala-editor
