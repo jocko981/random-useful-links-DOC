@@ -114,6 +114,7 @@ DND
 https://react-beautiful-dnd.netlify.app/?path=/story/board--simple
 
 
+
 SWIPER VERTICAL SCROLL
 
 https://codepen.io/proov/pen/JWqOrr - vertical slider
@@ -134,11 +135,17 @@ https://css-tricks.com/couple-takes-sticky-footer/#top-of-site  -   .App {
   padding: 1em;
 }
 
+
+
 DETECT SCROLL
 
 https://www.geeksforgeeks.org/how-to-detect-when-user-scrolls-to-the-bottom-of-a-div/   - when you scroll at the end of the specific DOM element
 
+
+
 INFINITE SCROLL
+
+https://bashooka.com/coding/react-infinite-scroll-components/  - top 15 inf scrolls
 
 https://bashooka.com/coding/react-infinite-scroll-components/  - top inff scroll libs
 
@@ -148,6 +155,7 @@ https://www.youtube.com/watch?v=1EeVzn02grw&ab_channel=SteveGriffith-Prof3ssorSt
 https://gist.github.com/prof3ssorSt3v3/a21c8b5f6dcf474b373af32b06600116
 
 https://www.youtube.com/watch?v=gk_6BKiy6X4&ab_channel=TraversyMedia -- react inf scroll
+
 
 
 INTERCEPTORS axios
