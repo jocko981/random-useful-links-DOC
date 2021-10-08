@@ -89,6 +89,7 @@ ROUTING STUFF
 https://codepen.io/Yuschick/post/react-reset-scroll-position-when-changing-routes  -- scroll to the Top on route change
 
 
+
 REDUX-FORM
 
 https://codesandbox.io/s/ko6km4134v?file=/src/index.js:524-532
@@ -118,6 +119,12 @@ https://codesandbox.io/s/create-pagination-in-react-js-using-reacthooks-cgq18?fr
 RENDERING
 
 https://www.pluralsight.com/guides/how-to-execute-javascript-after-reactjs-render-method-has-completed      execute js after react.js render method completed - rendering, lifecycle methods etc.
+
+
+
+setTimeout & reset
+
+https://upmostly.com/tutorials/settimeout-in-react-components-using-hooks
 
 
 
