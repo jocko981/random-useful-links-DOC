@@ -15,6 +15,12 @@ https://casesandberg.github.io/react-color/
 
 
 
+SCSS into create-react-app
+
+https://www.better.dev/adding-sass-to-create-react-app
+
+
+
 React TEXT EDITORS
 
 - froala-editor
