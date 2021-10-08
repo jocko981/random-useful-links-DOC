@@ -158,6 +158,12 @@ https://www.youtube.com/watch?v=gk_6BKiy6X4&ab_channel=TraversyMedia -- react in
 
 
 
+SCROLL and focus DIV after you scroll a little
+
+https://codepen.io/bradtraversy/pen/xBdyzr?editors=0110
+
+
+
 INTERCEPTORS axios
 
 https://medium.com/swlh/handling-access-and-refresh-tokens-using-axios-interceptors-3970b601a5da  -  good example -localStService file
