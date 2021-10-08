@@ -122,9 +122,11 @@ https://www.pluralsight.com/guides/how-to-execute-javascript-after-reactjs-rende
 
 
 
-setTimeout & reset
+SET-TIMEOUT & Reset
 
 https://upmostly.com/tutorials/settimeout-in-react-components-using-hooks
+
+https://blog.saeloun.com/2021/06/11/react-17-runs-useeffect-cleanup-asynchronously  - cleanUp
 
 
 
