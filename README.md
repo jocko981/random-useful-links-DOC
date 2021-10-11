@@ -31,21 +31,22 @@ https://www.rapidtables.com/web/html/link/html-download-link.html
 
 React TEXT EDITORS
 
-- froala-editor
-
-https://www.npmjs.com/package/froala-editor -- text editor
-
-https://froala.com/wysiwyg-editor/docs/concepts/save/inside-form/   -- how to save, send to the server 
-
 - react-draft-wysiwyg
 
 https://www.npmjs.com/package/react-draft-wysiwyg -- text editor
+https://www.sanity.io/guides/top-5-rich-text-react-components
 
 https://jpuri.github.io/react-draft-wysiwyg/#/ - how this work well Upload img ???
 
 https://www.youtube.com/watch?v=t12a6z090AU&ab_channel=CodingShiksha - youtube tutorial for it with img upload API
 
 https://stackoverflow.com/questions/44499682/react-draft-wysiwyg-image-upload-when-i-click-the-add-button?rq=1 - img
+
+- froala-editor
+
+https://www.npmjs.com/package/froala-editor -- text editor
+
+https://froala.com/wysiwyg-editor/docs/concepts/save/inside-form/   -- how to save, send to the server 
 
 
 
