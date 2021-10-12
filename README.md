@@ -34,6 +34,7 @@ React TEXT EDITORS
 - react-draft-wysiwyg
 
 https://www.npmjs.com/package/react-draft-wysiwyg -- text editor
+
 https://www.sanity.io/guides/top-5-rich-text-react-components
 
 https://jpuri.github.io/react-draft-wysiwyg/#/ - how this work well Upload img ???
@@ -89,6 +90,7 @@ https://codesandbox.io/s/protected-routes-7-lmhm9?file=/src/App.js
 
 
 ROUTING STUFF
+
 https://codepen.io/Yuschick/post/react-reset-scroll-position-when-changing-routes  -- scroll to the Top on route change
 
 
@@ -121,7 +123,7 @@ https://codesandbox.io/s/create-pagination-in-react-js-using-reacthooks-cgq18?fr
 
 RENDERING
 
-https://www.pluralsight.com/guides/how-to-execute-javascript-after-reactjs-render-method-has-completed      execute js after react.js render method completed - rendering, lifecycle methods etc.
+https://www.pluralsight.com/guides/how-to-execute-javascript-after-reactjs-render-method-has-completed   - execute js after react.js render method completed - rendering, lifecycle methods etc.
 
 
 
@@ -144,6 +146,11 @@ SWIPER VERTICAL SCROLL
 https://codepen.io/proov/pen/JWqOrr - vertical slider
 
 https://jsfiddle.net/redcats/84h3nm9w/ - x y slider
+
+
+HAMBURGER MENU [2020, 2021 fazon]
+
+https://www.youtube.com/watch?v=GGkBwpxV7AI&ab_channel=FullStackMastery   x  <-->  =
 
 
 
