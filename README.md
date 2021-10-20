@@ -8,6 +8,8 @@ https://uxdesign.cc/selection-controls-ui-component-series-3badc0bdb546
 
 REACT
 
+https://busypeoples.github.io/post/react-component-lifecycle/  -- when render happends
+
 https://www.cluemediator.com/stack  -- ALL LEVEL React TOPICS
 
 https://stackoverflow.com/questions/53557119/wrap-multiple-react-dom-component-in-reduxs-provider/53557231 - redux Provider wrap multiple dom components
