@@ -36,9 +36,11 @@ https://www.rapidtables.com/web/html/link/html-download-link.html
 
 
 
-Scroll stuff
+SCROLL STUFF
 
-https://www.geeksforgeeks.org/how-to-disable-scrolling-temporarily-using-javascript/  - disable scroll temorarily
+https://www.geeksforgeeks.org/how-to-disable-scrolling-temporarily-using-javascript/   -- disable scroll temorarily
+
+https://stackoverflow.com/questions/45585542/detecting-when-user-scrolls-to-bottom-of-div-with-react-js  - when scrolled to the bottom
 
 React TEXT EDITORS
 
