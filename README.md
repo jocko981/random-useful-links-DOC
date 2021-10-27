@@ -36,6 +36,10 @@ https://www.rapidtables.com/web/html/link/html-download-link.html
 
 
 
+Scroll stuff
+
+https://www.geeksforgeeks.org/how-to-disable-scrolling-temporarily-using-javascript/  - disable scroll temorarily
+
 React TEXT EDITORS
 
 - react-draft-wysiwyg
