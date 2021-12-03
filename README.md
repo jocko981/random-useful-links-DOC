@@ -5,6 +5,11 @@ FE tips
 https://uxdesign.cc/selection-controls-ui-component-series-3badc0bdb546
 
 
+CSS flexbox
+
+https://tobiasahlin.com/blog/common-flexbox-patterns/    ---  1 - 2 - 1 
+
+
 
 REACT
 
