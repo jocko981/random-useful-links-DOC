@@ -1,5 +1,8 @@
 # random-useful-links-DOC
 
+web3.0
+https://github.com/bozazec/web3-for-beginners
+
 FE tips
 
 https://uxdesign.cc/selection-controls-ui-component-series-3badc0bdb546
