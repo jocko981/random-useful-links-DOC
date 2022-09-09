@@ -13,6 +13,10 @@ CSS flexbox
 https://tobiasahlin.com/blog/common-flexbox-patterns/    ---  1 - 2 - 1 
 
 
+Textarea
+
+https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/
+
 
 REACT
 
