@@ -17,6 +17,8 @@ Textarea
 
 https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/
 
+https://css-tricks.com/auto-growing-inputs-textareas/
+
 
 REACT
 
