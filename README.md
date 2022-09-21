@@ -8,6 +8,11 @@ FE tips
 https://uxdesign.cc/selection-controls-ui-component-series-3badc0bdb546
 
 
+Turn .png image into any color you want Codepen
+
+https://codepen.io/sosuke/pen/Pjoqqp
+
+
 CSS flexbox
 
 https://tobiasahlin.com/blog/common-flexbox-patterns/    ---  1 - 2 - 1 
