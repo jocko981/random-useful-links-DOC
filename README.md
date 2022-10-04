@@ -3,6 +3,12 @@
 web3.0
 https://github.com/bozazec/web3-for-beginners
 
+
+free css
+
+https://www.free-css.com/free-css-templates
+
+
 FE tips
 
 https://uxdesign.cc/selection-controls-ui-component-series-3badc0bdb546
