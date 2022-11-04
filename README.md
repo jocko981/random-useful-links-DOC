@@ -4,6 +4,10 @@ web3.0
 https://github.com/bozazec/web3-for-beginners
 
 
+Minify HTML
+https://www.toptal.com/developers/html-minifier
+
+
 free css
 
 https://www.free-css.com/free-css-templates
